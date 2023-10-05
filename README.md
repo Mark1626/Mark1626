@@ -2,7 +2,7 @@
 
 - ⚡ Quote: _**Know Thyself**_
 
-My work is in the areas of High Performance Computing and Accelerated Computing. Slowly getting into FPGA and ASIC design. I do some creative frontend design from time to time.
+My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Accelerated Computing (Cuda/RoCM, HLS). I do some creative frontend design from time to time.
 
 # Me in other various locations
 \[ [Gitlab](https://gitlab.com/nimalan-m) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [CodePen](https://codepen.io/mark854) \]
