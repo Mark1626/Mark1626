@@ -5,7 +5,7 @@
 My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Accelerated Computing (Cuda/RoCM, HLS). I do some creative frontend design from time to time.
 
 # Me in other various locations
-\[ [Gitlab](https://gitlab.com/nimalan-m) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [CodePen](https://codepen.io/mark854) \]
+\[ [Gitlab](https://gitlab.com/nimalan-m) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [ctrl-c.club](https://ctrl-c.club/~mark1626) | [CodePen](https://codepen.io/mark854) \]
 
 # Work and Interesting Projects
 
