@@ -13,6 +13,7 @@ My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Ac
 
 ## Active Work
 
+- [Dahlia Cookbook](https://github.com/Mark1626/dahlia-cookbook) - Accelerator examples using the Dahlia programming language
 - [Road to C++ and HPC](https://github.com/Mark1626/road-to-plus-plus) - My journey into C++ and HPC
 - [Road to Hardware Design](https://github.com/Mark1626/road-to-hardware-design) - My journey hardware design of FPGA, ASIC with Verilog, Chisel
 - [Knowledge](https://mark1626.github.io/knowledge/) - _**Document Everything**_ A documentation of things I learn
