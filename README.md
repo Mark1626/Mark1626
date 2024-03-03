@@ -6,7 +6,7 @@ I'm a Research Engineering working for the [Engineering for Research e4r](https:
 My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Accelerated Computing (Cuda/RoCM, HLS). I do some creative frontend design from time to time.
 
 # Me in other various locations
-\[ [Gitlab](https://gitlab.com/nimalan-m) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [Kaggle](https://kaggle.com/nimalan1626/) | [Medium](https://medium.com/@nimalan854) | [CodePen](https://codepen.io/mark854) \]
+\[ [Medium](https://medium.com/@nimalan854) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [Gitlab](https://gitlab.com/nimalan-m) \]
 
 <!-- [ctrl-c.club](https://ctrl-c.club/~mark1626)  -->
 
