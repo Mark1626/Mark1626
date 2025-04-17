@@ -19,6 +19,8 @@ My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Ac
 
 ## Previous Work
 
+- [CG-LBM](https://github.com/dic-case-studies/cg-lbm) - Hardware accelerated Color Gradient Lattice Boltzmann Method Simulator for immiscible fluids
+- [Accelerated large window scan statistics](https://gitlab.com/nimalan-m/sliding-array-math-casestudy/) - Hardware accelerated large window scan statistics done for the ASKAP source finder Selavy
 - [JAX Finite Volume Simulation](https://github.com/Mark1626/finitevolume-jax) - Hardware accelerated finite volume simulation using JAX
 - [Alchitry Cu Litex Examples](https://github.com/Mark1626/litex-alchitry-cu-examples/) - Examples of using Litex with the Alchitry Cu board
 - [Dahlia Cookbook](https://github.com/Mark1626/dahlia-cookbook) - Accelerator examples using the Dahlia programming language
