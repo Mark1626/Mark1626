@@ -2,8 +2,13 @@
 
 - ⚡ Quote: _**Know Thyself**_
 
-I'm a Research Engineering working for the [Engineering for Research e4r](https://www.thoughtworks.com/en-in/clients/engineering-research) group in Thoughtworks.
-My work is in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Accelerated Computing (Cuda/RoCM, HLS). I do some creative frontend design from time to time.
+# About me
+
+I'm am engineer working on the [e6data](https://www.e6data.com/) lakehouse engine.
+
+Prior to this, I was a research engineering working for the [Engineering for Research e4r](https://www.thoughtworks.com/en-in/clients/engineering-research) group in Thoughtworks. My work was in the areas of High Performance Computing (MPI, OpenMP, SIMD) and Accelerated Computing (Cuda/RoCM, HLS).
+
+I do some creative frontend design from time to time.
 
 # Me in other various locations
 \[ [Medium](https://medium.com/@nimalan854) | [Blog](https://mark1626.github.io/blog/) | [Micro Blog](https://github.com/Mark1626/micro-blog) | [Gitlab](https://gitlab.com/nimalan-m) \]
